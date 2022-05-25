@@ -90,7 +90,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>packaging-and-delivery</finalName>
+		<finalName>packaging-and-delivery-service</finalName>
 	</build>
 
 </project>
